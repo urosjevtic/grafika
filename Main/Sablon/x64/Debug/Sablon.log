@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(99,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(119,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(127,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(128,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(168,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(193,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(269,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(270,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(271,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(272,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(273,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(274,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(275,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(276,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(299,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(300,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(301,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(302,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(314,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(314,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(316,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(316,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(318,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(318,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(320,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(320,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(352,44): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(356,44): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(385,76): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(385,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(392,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(392,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(399,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(399,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(407,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(407,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(451,38): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(452,39): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(453,39): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(454,39): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(463,38): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(464,39): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(465,39): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\main.cpp(466,39): warning C4305: '-=': truncation from 'double' to 'float'
+  Sablon.vcxproj -> D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\x64\Debug\Sablon.exe

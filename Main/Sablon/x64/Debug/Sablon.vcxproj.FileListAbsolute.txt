@@ -1,0 +1,8 @@
+C:\Users\Bogdan\Downloads\RG Trougao Sablon\Sablon\x64\Debug\glew32.dll
+C:\Users\Bogdan\Downloads\RG Trougao Sablon\Sablon\x64\Debug\Sablon.exe
+C:\Users\Bogdan\Downloads\V3Z7\Sablon\x64\Debug\glew32.dll
+C:\Users\Bogdan\Downloads\V3Z7\Sablon\x64\Debug\Sablon.exe
+D:\Faks\VII semestar\grafika\Projekat1\2 trougla idu u krug\Sablon\x64\Debug\glew32.dll
+D:\Faks\VII semestar\grafika\Projekat1\2 trougla idu u krug\Sablon\x64\Debug\Sablon.exe
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\x64\Debug\glew32.dll
+D:\Faks\VII semestar\grafika\Projekat1\Main\Sablon\x64\Debug\Sablon.exe
